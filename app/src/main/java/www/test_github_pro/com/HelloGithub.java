@@ -12,5 +12,6 @@ public class HelloGithub extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         System.out.println("savedInstanceState = [" + savedInstanceState + "]");
+        System.out.println("修改代码");
     }
 }
