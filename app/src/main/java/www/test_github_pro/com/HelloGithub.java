@@ -13,5 +13,6 @@ public class HelloGithub extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         System.out.println("savedInstanceState = [" + savedInstanceState + "]");
         System.out.println("修改代码");
+        System.out.println("修改了部分代码");
     }
 }
